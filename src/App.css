@@ -1,0 +1,22 @@
+
+.landing-page{
+    background-image: url("./assests/image/pexels-asad-photo-maldives-169198.jpg");
+    background-size: cover;
+    height: 100vh;
+    color: whitesmoke;
+
+}
+.wrapper{
+    background-color: rgba(0,0,0,0.5);
+    height: 100%;
+}
+/*.navbar {
+    background: #030e19;
+    font-size: 20px;
+    padding: 5px;
+}*/
+.nav-bg{
+    background: linear-gradient(-205deg ,lightskyblue,slategray);
+}
+
+
